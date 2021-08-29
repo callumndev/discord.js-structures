@@ -8,7 +8,7 @@
 
 ## About
 
-A package to bring back extendable structures in [discord.js](https://discord.js.org/) since they where removed in the new v13 update.
+A package to bring back extendable structures in [discord.js](https://discord.js.org/) since they were removed in the new v13 update.
 
 **NOTE: THIS PACKAGE MAY NOT FUNCTION THE SAME AS THE OLD WAY OF EXTENDING STRUCTURES DID IN THE `v12` VERSION OF THE `discord.js` PACKAGE. ALSO, NOTE THAT `discord.js-structures` MUST BE REQUIRED BEFORE THE `discord.js` PACKAGE ELSE IT WILL EXPERIENCE FAILURES TO EXTEND STRUCTURES.**
 
