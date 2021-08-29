@@ -2,7 +2,7 @@
     <br />
     <h1>discord.js-structures</h1>
     <br />
-    <a href="https://www.npmjs.com/package/discord.js-structures"><img src="https://img.shields.io/npm/v/discord.js-structures.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord.js-structures"><img src="https://img.shields.io/npm/v/discord.js-structures.svg" alt="NPM version" /></a>
 </div>
 
 
@@ -10,10 +10,7 @@
 
 A package to bring back extendable structures in [discord.js](https://discord.js.org/) since they where removed in the new v13 update.
 
-- Object-oriented
-- Predictable abstractions
-- Performant
-- 100% coverage of the Discord API
+**NOTE: THIS PACKAGE MAY NOT FUNCTION THE SAME AS THE OLD WAY OF EXTENDING STRUCTURES DID IN THE `v12` VERSION OF THE `discord.js` PACKAGE. ALSO, NOTE THAT `discord.js-structures` MUST BE REQUIRED BEFORE THE `discord.js` PACKAGE ELSE IT WILL EXPERIENCE FAILURES TO EXTEND STRUCTURES.**
 
 ## Installation
 
