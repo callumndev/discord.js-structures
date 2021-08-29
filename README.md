@@ -2,7 +2,7 @@
     <br />
     <h1>discord.js-structures</h1>
     <br />
-    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js-structures.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord.js-structures"><img src="https://img.shields.io/npm/v/discord.js-structures.svg?maxAge=3600" alt="NPM version" /></a>
 </div>
 
 
