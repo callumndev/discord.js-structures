@@ -12,6 +12,9 @@ A package to bring back extendable structures in [discord.js](https://discord.js
 
 **NOTE: THIS PACKAGE MAY NOT FUNCTION THE SAME AS THE OLD WAY OF EXTENDING STRUCTURES DID IN THE `v12` VERSION OF THE `discord.js` PACKAGE. ALSO, NOTE THAT `discord.js-structures` MUST BE REQUIRED BEFORE THE `discord.js` PACKAGE ELSE IT WILL EXPERIENCE FAILURES TO EXTEND STRUCTURES.**
 
+**⚠️ DISCORD SUPPORT SERVER HERE: https://discord.gg/hdakCMbt3m ⚠️**
+
+
 ## Installation
 
 **Node.js 16.6.0 or newer is required.**  
@@ -74,6 +77,7 @@ client.login('token');
 
 ## Links
 
+- [Support](https://discord.gg/hdakCMbt3m)
 - [GitHub](https://github.com/LzzDev/discord.js-structures)
 - [NPM](https://www.npmjs.com/package/discord.js-structures)
 - [Discord API Discord server](https://discord.gg/discord-api)
